@@ -1,7 +1,7 @@
 ## Scripts
-`yarn frontend` to start the frontend
-`yarn server` to start the server
-`yarn dev` will start the server and frontend together
+`yarn frontend` to start the frontend  
+`yarn server` to start the server  
+`yarn dev` will start the server and frontend together  
 
 ## Tasks
 
