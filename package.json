@@ -7,8 +7,8 @@
   "private": true,
   "scripts": {
     "frontend": "cd ./frontend && yarn run dev",
-    "server": "cd ./server && yarn run start:dev",
-    "dev": "concurrently \"yarn run server\" \"yarn run frontend\""
+    "backend": "cd ./backend && yarn run start:dev",
+    "dev": "concurrently \"yarn run backend\" \"yarn run frontend\""
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
